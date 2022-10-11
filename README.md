@@ -1,7 +1,7 @@
 # Medt
 Medien Technik
 
-##Github
+## Github
 
 1. Github Aufgaben
   - Files Speichern
@@ -11,3 +11,4 @@ Medien Technik
   - Einfach zu nutzen
 3. Github Nachteile
   - Wird von Microsoft gezahlt
+

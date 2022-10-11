@@ -1,2 +1,0 @@
-# Medt
-Medien Technik
